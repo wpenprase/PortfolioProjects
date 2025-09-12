@@ -1,0 +1,9 @@
+The merge conflict was resolved by merging both of the branched with "git merge Test" 
+while in the Working branch. Then I had to open the readme.md file and make edits to 
+save the "readme.md" file. Once that was completed, then I was able to "add ." commit 
+and resolve the merge conflict. Afterwards, I was able to push to the repository.
+
+I made three edits to the Working branch.First, I added my name under the about us 
+header tag in the a"about.html file. Second, I added a paragraph to the team.html file.
+Third, I added a a mission statement header tag in the vision.html file. 
+

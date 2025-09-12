@@ -1,0 +1,48 @@
+commit d8062cb5f4af7306cf21f9f11a83d9dbdd820e40
+Merge: 2cf9101 ae525d8
+Author: wpenpra <wpenpra@wgu.edu>
+Date:   Tue Dec 17 08:57:46 2024 -0800
+
+    Merge conflict resolved
+
+commit 2cf9101c988fcfcd9fe3e3dddc2b2e6a5c49cda3
+Author: wpenpra <wpenpra@wgu.edu>
+Date:   Tue Dec 17 08:52:39 2024 -0800
+
+    Adds version number 1.1 to Working branch on the readme file
+
+commit ae525d8a63e530f39e6bc0420f0244f4d3480b90
+Author: wpenpra <wpenpra@wgu.edu>
+Date:   Tue Dec 17 08:33:12 2024 -0800
+
+    Adds my Student ID to Test branch in readme file
+
+commit 89f8bc99a2e19d879ad428fabae32167e6eddc63
+Author: wpenpra <wpenpra@wgu.edu>
+Date:   Tue Dec 17 08:18:05 2024 -0800
+
+    Adds my name to a header tag in about.html file
+
+commit b441cc515e63edcc82154877f8f5c3f728002a81
+Author: wpenpra <wpenpra@wgu.edu>
+Date:   Tue Dec 17 08:11:42 2024 -0800
+
+    Adds the mission statement under Mission and Vision header tag
+
+commit b8d97e3c1bca5da1d8dcb17e9befdc3625bb7593
+Author: wpenpra <wpenpra@wgu.edu>
+Date:   Tue Dec 17 08:07:51 2024 -0800
+
+    This adds a paragraph under Marsh's header tag in team.html
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit
